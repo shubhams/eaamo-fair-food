@@ -1,0 +1,133 @@
+"color_cluster_list","mean_gain_list","violation_found_list","demographic_list","demographic_sums","demographic_gain_list"
+"purple","16.5454545454545","11","White",4.32791782080667,16.7324518357531
+"purple","16.5454545454545","11","Black",3.0367633214096,17.8083898587162
+"purple","16.5454545454545","11","Asian",2.64070844318664,14.3473734904155
+"purple","16.5454545454545","11","Hispanic",0.667627526295635,18.7054513958772
+"purple","16.5454545454545","11","American_Indian",0,NA
+"purple","16.5454545454545","11","Others",0.326982888301463,15.6826366273032
+"purple","16.5454545454545","11","NorthSide",0,NA
+"purple","16.5454545454545","11","FarNorthSide",1,3
+"purple","16.5454545454545","11","FarSoutheastSide",0,NA
+"purple","16.5454545454545","11","SouthSide",3,18.3333333333333
+"purple","16.5454545454545","11","CentralChicago",6,16
+"purple","16.5454545454545","11","FarSouthwestSide",0,NA
+"purple","16.5454545454545","11","SouthwestSide",0,NA
+"purple","16.5454545454545","11","WestSide",1,28
+"purple","16.5454545454545","11","NorthwestSide",0,NA
+"blue","30.0344827586207","29","White",9.06150705193734,29.7869041760695
+"blue","30.0344827586207","29","Black",6.58982851679886,26.0596496081989
+"blue","30.0344827586207","29","Asian",3.11779688049379,30.8730070960791
+"blue","30.0344827586207","29","Hispanic",9.34943600863069,32.8533911847703
+"blue","30.0344827586207","29","American_Indian",0.103752689305009,10.2780561372292
+"blue","30.0344827586207","29","Others",0.77767885283431,31.9853314866513
+"blue","30.0344827586207","29","NorthSide",6,28.8333333333333
+"blue","30.0344827586207","29","FarNorthSide",13,34.3076923076923
+"blue","30.0344827586207","29","FarSoutheastSide",1,29
+"blue","30.0344827586207","29","SouthSide",0,NA
+"blue","30.0344827586207","29","CentralChicago",1,6
+"blue","30.0344827586207","29","FarSouthwestSide",1,7
+"blue","30.0344827586207","29","SouthwestSide",0,NA
+"blue","30.0344827586207","29","WestSide",7,30
+"blue","30.0344827586207","29","NorthwestSide",0,NA
+"orange","27.5555555555556","27","White",7.33793704337218,21.6589550833622
+"orange","27.5555555555556","27","Black",3.70018633421914,31.5337232220065
+"orange","27.5555555555556","27","Asian",0.851963335967864,24.89110812739
+"orange","27.5555555555556","27","Hispanic",13.5242385581926,29.2625177159716
+"orange","27.5555555555556","27","American_Indian",0.054350842161223,42.4397499821075
+"orange","27.5555555555556","27","Others",0.531323886086952,24.6950715196578
+"orange","27.5555555555556","27","NorthSide",5,30
+"orange","27.5555555555556","27","FarNorthSide",2,9
+"orange","27.5555555555556","27","FarSoutheastSide",0,NA
+"orange","27.5555555555556","27","SouthSide",0,NA
+"orange","27.5555555555556","27","CentralChicago",0,NA
+"orange","27.5555555555556","27","FarSouthwestSide",2,5
+"orange","27.5555555555556","27","SouthwestSide",9,32.2222222222222
+"orange","27.5555555555556","27","WestSide",2,28.5
+"orange","27.5555555555556","27","NorthwestSide",7,31.2857142857143
+"green","20","30","White",17.5756612674616,18.7514396350818
+"green","20","30","Black",3.39194124058081,18.3910231379909
+"green","20","30","Asian",4.25575257528557,20.9953293754716
+"green","20","30","Hispanic",3.98167840804037,25.7619905153394
+"green","20","30","American_Indian",0.0145278450363196,25
+"green","20","30","Others",0.780438663595343,20.1933797309718
+"green","20","30","NorthSide",0,NA
+"green","20","30","FarNorthSide",3,41.3333333333333
+"green","20","30","FarSoutheastSide",0,NA
+"green","20","30","SouthSide",2,22
+"green","20","30","CentralChicago",12,16.8333333333333
+"green","20","30","FarSouthwestSide",0,NA
+"green","20","30","SouthwestSide",1,28
+"green","20","30","WestSide",8,10.875
+"green","20","30","NorthwestSide",4,28.75
+"yellow","NaN","0","White",0,NA
+"yellow","NaN","0","Black",0,NA
+"yellow","NaN","0","Asian",0,NA
+"yellow","NaN","0","Hispanic",0,NA
+"yellow","NaN","0","American_Indian",0,NA
+"yellow","NaN","0","Others",0,NA
+"yellow","NaN","0","NorthSide",0,NA
+"yellow","NaN","0","FarNorthSide",0,NA
+"yellow","NaN","0","FarSoutheastSide",0,NA
+"yellow","NaN","0","SouthSide",0,NA
+"yellow","NaN","0","CentralChicago",0,NA
+"yellow","NaN","0","FarSouthwestSide",0,NA
+"yellow","NaN","0","SouthwestSide",0,NA
+"yellow","NaN","0","WestSide",0,NA
+"yellow","NaN","0","NorthwestSide",0,NA
+"brown","28.6666666666667","3","White",1.00346978976972,28.6819504903842
+"brown","28.6666666666667","3","Black",0.638812866757893,34.7011810799905
+"brown","28.6666666666667","3","Asian",0.188768969563342,28.6128713046518
+"brown","28.6666666666667","3","Hispanic",1.14981455127277,25.4032486948519
+"brown","28.6666666666667","3","American_Indian",0.0176125244618395,22
+"brown","28.6666666666667","3","Others",0.00152129817444219,35
+"brown","28.6666666666667","3","NorthSide",0,NA
+"brown","28.6666666666667","3","FarNorthSide",1,29
+"brown","28.6666666666667","3","FarSoutheastSide",0,NA
+"brown","28.6666666666667","3","SouthSide",0,NA
+"brown","28.6666666666667","3","CentralChicago",0,NA
+"brown","28.6666666666667","3","FarSouthwestSide",0,NA
+"brown","28.6666666666667","3","SouthwestSide",0,NA
+"brown","28.6666666666667","3","WestSide",2,28.5
+"brown","28.6666666666667","3","NorthwestSide",0,NA
+"all","16.77","100","White",39.3064929733475,17.0242404975835
+"all","16.77","100","Black",17.3575322797663,13.8501482186015
+"all","16.77","100","Asian",11.0549902044972,14.158666324019
+"all","16.77","100","Hispanic",28.6727950524321,18.9477297805949
+"all","16.77","100","American_Indian",0.190243900964391,16.7101815817286
+"all","16.77","100","Others",2.41794558899251,14.659186511071
+"all color","16.77","100","purple",11,0.454545454545455
+"all color","16.77","100","blue",29,4.79310344827586
+"all color","16.77","100","orange",27,22.7037037037037
+"all color","16.77","100","green",30,25.8
+"all color","16.77","100","yellow",0,NA
+"all color","16.77","100","brown",3,48.6666666666667
+"all location","16.77","100","NorthSide",11,12.6363636363636
+"all location","16.77","100","FarNorthSide",20,13.3
+"all location","16.77","100","FarSoutheastSide",1,3
+"all location","16.77","100","SouthSide",5,10.8
+"all location","16.77","100","CentralChicago",19,15.5263157894737
+"all location","16.77","100","FarSouthwestSide",3,6.66666666666667
+"all location","16.77","100","SouthwestSide",10,26.8
+"all location","16.77","100","WestSide",20,16.6
+"all location","16.77","100","NorthwestSide",11,27.2727272727273
+"default","23.75","100","White",39.3064929733475,20.9890871277143
+"default","23.75","100","Black",17.3575322797663,25.7256084866983
+"default","23.75","100","Asian",11.0549902044972,22.2844006910164
+"default","23.75","100","Hispanic",28.6727950524321,26.4430061412682
+"default","23.75","100","American_Indian",0.190243900964391,27.2247814760682
+"default","23.75","100","Others",2.41794558899251,23.8762357572745
+"default color","23.75","100","purple",11,19.2727272727273
+"default color","23.75","100","blue",29,24.7931034482759
+"default color","23.75","100","orange",27,27.1111111111111
+"default color","23.75","100","green",30,21.3666666666667
+"default color","23.75","100","yellow",0,NA
+"default color","23.75","100","brown",3,23.6666666666667
+"default location","23.75","100","NorthSide",11,22.9090909090909
+"default location","23.75","100","FarNorthSide",20,25.05
+"default location","23.75","100","FarSoutheastSide",1,28
+"default location","23.75","100","SouthSide",5,21.4
+"default location","23.75","100","CentralChicago",19,15.8421052631579
+"default location","23.75","100","FarSouthwestSide",3,20
+"default location","23.75","100","SouthwestSide",10,24
+"default location","23.75","100","WestSide",20,26.55
+"default location","23.75","100","NorthwestSide",11,32.2727272727273

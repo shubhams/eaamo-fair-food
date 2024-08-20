@@ -1,0 +1,61 @@
+"color_cluster_list","mean_gain_list","violation_found_list","demographic_list","demographic_sums","demographic_gain_list"
+"blue","NaN","0","White",0,NA
+"blue","NaN","0","Black",0,NA
+"blue","NaN","0","Asian",0,NA
+"blue","NaN","0","Hispanic",0,NA
+"blue","NaN","0","American_Indian",0,NA
+"blue","NaN","0","Others",0,NA
+"orange","NaN","0","White",0,NA
+"orange","NaN","0","Black",0,NA
+"orange","NaN","0","Asian",0,NA
+"orange","NaN","0","Hispanic",0,NA
+"orange","NaN","0","American_Indian",0,NA
+"orange","NaN","0","Others",0,NA
+"brown","NaN","0","White",0,NA
+"brown","NaN","0","Black",0,NA
+"brown","NaN","0","Asian",0,NA
+"brown","NaN","0","Hispanic",0,NA
+"brown","NaN","0","American_Indian",0,NA
+"brown","NaN","0","Others",0,NA
+"yellow","NaN","0","White",0,NA
+"yellow","NaN","0","Black",0,NA
+"yellow","NaN","0","Asian",0,NA
+"yellow","NaN","0","Hispanic",0,NA
+"yellow","NaN","0","American_Indian",0,NA
+"yellow","NaN","0","Others",0,NA
+"green","NaN","0","White",0,NA
+"green","NaN","0","Black",0,NA
+"green","NaN","0","Asian",0,NA
+"green","NaN","0","Hispanic",0,NA
+"green","NaN","0","American_Indian",0,NA
+"green","NaN","0","Others",0,NA
+"purple","NaN","0","White",0,NA
+"purple","NaN","0","Black",0,NA
+"purple","NaN","0","Asian",0,NA
+"purple","NaN","0","Hispanic",0,NA
+"purple","NaN","0","American_Indian",0,NA
+"purple","NaN","0","Others",0,NA
+"all","NaN","0","White",0,NA
+"all","NaN","0","Black",0,NA
+"all","NaN","0","Asian",0,NA
+"all","NaN","0","Hispanic",0,NA
+"all","NaN","0","American_Indian",0,NA
+"all","NaN","0","Others",0,NA
+"all color","NaN","0","blue",0,NA
+"all color","NaN","0","orange",0,NA
+"all color","NaN","0","brown",0,NA
+"all color","NaN","0","yellow",0,NA
+"all color","NaN","0","green",0,NA
+"all color","NaN","0","purple",0,NA
+"default","NaN","0","White",0,NA
+"default","NaN","0","Black",0,NA
+"default","NaN","0","Asian",0,NA
+"default","NaN","0","Hispanic",0,NA
+"default","NaN","0","American_Indian",0,NA
+"default","NaN","0","Others",0,NA
+"default color","NaN","0","blue",0,NA
+"default color","NaN","0","orange",0,NA
+"default color","NaN","0","brown",0,NA
+"default color","NaN","0","yellow",0,NA
+"default color","NaN","0","green",0,NA
+"default color","NaN","0","purple",0,NA
